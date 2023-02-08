@@ -1,4 +1,4 @@
-# Resize and Compress Images
+# Resize Images
 
 [Demo](https://alekstar79.github.io/compress-image)
 
@@ -21,4 +21,4 @@ Start server:
 serve -s .
 ```
 
-![review](assets/review.jpg "Resize and Compress Images")
+![review](assets/review.jpg "Resize Images")
